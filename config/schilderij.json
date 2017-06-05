@@ -1,0 +1,41 @@
+{
+    "schilderij":
+    [
+        {
+            "titel": "A Rose",
+            "id": 212,
+            "datum": "1907",
+            "categorieen": ["Oil paintings","Realisme"],
+            "artist": "Thomas Anshutz",
+            "short": "One of the most gifted American art teachers, Anshutz links the realism of his mentor Thomas Eakins with that of the Ashcan School, some of whom were his students. Perhaps because Anshutz spent so much time teaching, he painted only about 130 oils. ",
+            "samenvatting": "<p>One of the most gifted American art teachers, Anshutz links the realism of his mentor Thomas Eakins with that of the Ashcan School, some of whom were his students. Perhaps because Anshutz spent so much time teaching, he painted only about 130 oils. Some of the most impressive belong to a series of images of Rebecca H. Whelen, daughter of a trustee of the Pennsylvania Academy of the Fine Arts, where Anshutz taught.</p><p>The woman at leisure and the likening of a beautiful woman to a flower are common themes in late-nineteenth-century American painting. They reflect the contemporary definition of a woman's proper sphere: the realm of leisure, beauty, and the aesthetic, harmonious domestic environment. 'A rose' reflects Anshutz's simultaneous appreciation of Eakins's academic rigor and psychological probing and John Singer Sargent's painterly freedom. 'A Rose' also suggests the influence of Diego Velázquez and James McNeill Whistler on late-nineteenth-century painters, including Eakins and Sargent as well as Anshutz.</p> <p> In portraying the young woman as contemplative and yet intellectually and emotionally alert, Anshutz also anticipates the earthier women painted by members of the Ashcan School and other twentieth-century realists.</p>",
+            "medium": "Oil on canvas",
+            "afbeeldingl": "one.jpg",
+            "afbeeldings": "one.jpg"
+        },
+        {
+          "titel": "Dish of Apples",
+          "id": 215,
+          "datum": "ca. 1876–77",
+          "categorieen": ["Oil paintings","PostImpressionisme"],
+          "artist": "Paul Cézanne",
+          "short": "This rich and dense still life, featuring a napkin shaped like Mont Sainte-Victoire, was painted about 1876–77 in the house of Cézanne's father in Aix. The decorative screen visible in the background was long thought to have been made by the artist in his youth.",
+          "samenvatting": "<p>This rich and dense still life, featuring a napkin shaped like Mont Sainte-Victoire, was painted about 1876–77 in the house of Cézanne's father in Aix. The decorative screen visible in the background was long thought to have been made by the artist in his youth.</p>",
+          "medium": "Oil on canvas",
+          "afbeeldingl": "two.jpg",
+          "afbeeldings": "two.jpg"
+        },
+        {
+          "titel": "September Evening",
+          "id": 218,
+          "datum": "1898",
+          "categorieen": ["Oil paintings","Landscape"],
+          "artist": "George H. Bogert",
+          "short": "George Henry Bogert was born in New York City, the son of Henry Bogert and Helen Anderson Evans. His father was a paper manufacturer, and a noted collector of coins, medals, and writings on numismatics. As a student at the National Academy of Design and later under Thomas Eakins in New York City, he early on displayed the talent that later brought him fame.",
+          "samenvatting": "<p>George Henry Bogert was born in New York City, the son of Henry Bogert and Helen Anderson Evans. His father was a paper manufacturer, and a noted collector of coins, medals, and writings on numismatics. As a student at the National Academy of Design and later under Thomas Eakins in New York City, he early on displayed the talent that later brought him fame.</p><p> In 1884 he went to France and painted landscapes for a time at Grez, near the forest of Fontainebleau, afterwards going to Paris, where he studied under Colin, Aimé Morot, and Pierre Puvis de Chavannes. Four years later he returned to New York and thereafter until his death was a frequent exhibitor at the Society of American Artists, the National Academy of Design, and elsewhere. In 1899, he was elected into the National Academy of Design as an Associate member.</p> <p>It was in 1901 that his landscape work began to attract attention. At the outset his achievements were tentative, but evidenced sincerity and promise. Within a few years it was evident that the artist was rapidly approaching the completeness that marks reflective work, and his paintings testified to the maturity of his style. In his summer journeys abroad he painted at Étaples on the French coast with Eugène Boudin and in the Netherlands and on the Isle of Wight. </p>",
+          "medium": "Oil on canvas",
+          "afbeeldingl": "three.jpg",
+          "afbeeldings": "three.jpg"
+        }
+    ]
+}

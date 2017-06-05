@@ -1,0 +1,20 @@
+<% include header %>
+
+
+
+  <% for (var i = 0; i < items.length; i++) { %>
+    <% if (items[i].categorieen.indexOf(categorieen[id]) !== -1) { %>
+      <section>
+          <h2>
+            <a href=/items/<%- items[i].id %>><%- items[i].titel %></a>
+          </h2>
+          <img src="/img/<%- items[i].afbeeldings %>" alt="<%- items[i].titel %>">
+          <p><%- items[i].datum %></p>
+          <p> <%- items[i].samenvatting %> </p>
+      </section>
+    <% } %>
+  <% } %>
+
+<h1><a href="/" class="back">Back to the homepage</a></h1>
+
+<% include footer %>

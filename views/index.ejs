@@ -1,0 +1,32 @@
+<% include header %>
+
+<div class="red"></div>
+   <img src="/img/logo.jpg" class="noBorder">
+<div class="red"></div>
+
+<nav>
+  <h3> </h3>
+  <% for (var i = 0; i < categorieen.length; i++) { %>
+    <a class="black" href="/categorieen/<%- i %>"><%- categorieen[i] %></a>
+  <% } %>
+</nav>
+
+    <hr></hr>
+
+  <% var teller = 1; %>
+  <% schilderij.forEach(function(item){ %>
+    <section>
+        <h2>
+          <a class="title" href=/items/<%- item.id %>><%- item.titel %>
+        </h2>
+        <img src="/img/<%- item.afbeeldings %>" alt="<%- item.titel %>"></a>
+        <p class="artists"><%- item.artist %></p>
+        <p class="date"><%- item.datum %></p>
+
+        <p> <%- item.short %> </p>
+        <a href=/items/<%- item.id %>Read more</a>
+    </section>
+    <% teller++;}); %>
+
+
+<% include footer %>
